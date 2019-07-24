@@ -98,13 +98,3 @@ plt.xlabel('time')
 plt.ylabel('Yahoo value')
 plt.legend()
 plt.show()
-
-
-
-
-
-
-
-
-
-
